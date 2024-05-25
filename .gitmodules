@@ -1,3 +1,6 @@
 [submodule "kicad-modules"]
 	path = kicad-modules
 	url = git@github.com:klaussnd/kicad-modules
+[submodule "hal"]
+	path = hal
+	url = git@github.com:klaussnd/hal
